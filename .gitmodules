@@ -20,3 +20,9 @@
 [submodule "external/purplpkg"]
 	path = external/purplpkg
 	url = https://github.com/purpl-org/purplpkg
+[submodule "vector-mcp"]
+	path = vector-mcp
+	url = https://github.com/wangergou2023/vector-mcp.git
+[submodule "daima-agent"]
+	path = daima-agent
+	url = https://github.com/wangergou2023/daima-agent.git
